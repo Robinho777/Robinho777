@@ -9,12 +9,11 @@ Me chamo Francisco Robson Araujo Sousa, sou natural do Ceará. Concluí o ensino
 **`Conecte-se comigo`**
 
 <p align="left">
-    </a>
     <a href="https://www.linkedin.com/in/robson-sousaa/">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Robinho777?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Robinho777?color=236ad3&labelColor=1155ba&style=for-the-badge&label=Linkedin"
         />
     </a>
 </p>
@@ -101,10 +100,6 @@ Me chamo Francisco Robson Araujo Sousa, sou natural do Ceará. Concluí o ensino
 
 ### 📊 Estatísticas
 
-<div align="left">  
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robinho777&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"
-    />
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
