@@ -4,7 +4,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Francisco Robson Araujo Sousa, sou natural do Ceará. Concluí o ensino superior na Estácio, com o curso Administração de Empresa. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na mesma instituição. Sou fascinado por tecnologia e conhecimento, depois que conhece a área de análise de dados me apaixonei. Tenho a pretensão de tornar essa paixão em profissão!".
+Me chamo Francisco Robson Araujo Sousa, sou natural do Ceará. Concluí o ensino superior na Estácio, com o curso Administração de Empresa. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na mesma instituição. Sou fascinado por tecnologia e conhecimento, depois que conhece a área de análise de dados me apaixonei. Tenho a pretensão de tornar essa paixão em profissão!.
 
 ---
 
