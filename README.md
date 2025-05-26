@@ -6,18 +6,6 @@
 
 Me chamo Francisco Robson Araujo Sousa, sou natural do Ceará. Concluí o ensino superior na Estácio, com o curso Administração de Empresa. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na mesma instituição. Sou fascinado por tecnologia e conhecimento, depois que conhece a área de análise de dados me apaixonei. Tenho a pretensão de tornar essa paixão em profissão!".
 
-**`Conecte-se comigo`**
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/robson-sousaa/">
-        <img 
-            alt="Linkedin" 
-            title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Robinho777?color=236ad3&labelColor=1155ba&style=for-the-badge&label=Linkedin"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
